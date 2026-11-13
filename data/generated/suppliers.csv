@@ -1,0 +1,11 @@
+id,supplier_code,name,supplier_type,country,rating,lifecycle_status
+SUP-0001,SUP-0001,Supplier 0001 Ltd.,external,USA,2.62,active
+SUP-0002,SUP-0002,Supplier 0002 Ltd.,external,China,2.74,active
+SUP-0003,SUP-0003,Supplier 0003 Ltd.,external,Germany,2.86,active
+SUP-0004,SUP-0004,Supplier 0004 Ltd.,external,India,2.98,active
+SUP-0005,SUP-0005,Supplier 0005 Ltd.,external,Japan,3.1,active
+SUP-0006,SUP-0006,Supplier 0006 Ltd.,external,Brazil,3.22,active
+SUP-0007,SUP-0007,Supplier 0007 Ltd.,external,Mexico,3.34,active
+SUP-0008,SUP-0008,Supplier 0008 Ltd.,external,France,3.46,active
+SUP-0009,SUP-0009,Supplier 0009 Ltd.,external,USA,3.58,active
+SUP-0010,SUP-0010,Supplier 0010 Ltd.,external,China,3.7,active

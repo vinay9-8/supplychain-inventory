@@ -1,0 +1,55 @@
+{
+  "mode": "sample",
+  "checks": [
+    {
+      "name": "required_files",
+      "passed": true,
+      "details": {
+        "missing_files": []
+      },
+      "warnings": 0
+    },
+    {
+      "name": "inventory_balance",
+      "passed": true,
+      "details": {
+        "invalid_records": [],
+        "invalid_count": 0
+      },
+      "warnings": 0
+    },
+    {
+      "name": "demand_rows",
+      "passed": true,
+      "details": {
+        "negative_forecast_records": [],
+        "count": 0
+      },
+      "warnings": 0
+    },
+    {
+      "name": "purchase_order_rows",
+      "passed": true,
+      "details": {
+        "invalid_order_ids": [],
+        "count": 0
+      },
+      "warnings": 0
+    },
+    {
+      "name": "supplier_capacity_rows",
+      "passed": true,
+      "details": {
+        "invalid_capacity_ids": [],
+        "count": 0
+      },
+      "warnings": 0
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "warnings": 0
+  },
+  "status": "passed"
+}

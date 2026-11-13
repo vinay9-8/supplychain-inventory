@@ -1,0 +1,25 @@
+{
+  "seed": 20261022,
+  "mode": "sample",
+  "counts": {
+    "skus": 25,
+    "locations": 5,
+    "suppliers": 10,
+    "inventory_records": 125,
+    "demand_records": 1000,
+    "purchase_orders": 100,
+    "supplier_capacity_records": 10,
+    "lead_time_records": 10
+  },
+  "generated_files": [
+    "skus.csv",
+    "locations.csv",
+    "suppliers.csv",
+    "inventory.csv",
+    "forecast_demand.csv",
+    "purchase_orders.csv",
+    "supplier_capacity.csv",
+    "lead_times.csv",
+    "dataset_summary.json"
+  ]
+}

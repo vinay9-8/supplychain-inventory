@@ -1,0 +1,6 @@
+id,code,name,region,country,warehouse_type,capacity_units,lifecycle_status
+LOC-0001,WH-001,North America DC 1,North America,USA,DC,10379,active
+LOC-0002,WH-002,North America DC 2,North America,Canada,DC,10758,active
+LOC-0003,WH-003,Europe DC 3,Europe,Germany,DC,11137,active
+LOC-0004,WH-004,Europe DC 4,Europe,France,DC,11516,active
+LOC-0005,WH-005,Europe DC 5,Europe,United Kingdom,DC,11895,active
